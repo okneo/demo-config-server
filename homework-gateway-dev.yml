@@ -1,0 +1,11 @@
+zuul:
+  routes:
+    order:
+      path: /orderservice/**
+      serviceId: homework-order
+ribbon:
+  ReadTimeout: 12000
+  ConnectTimeout: 12000
+server:
+  passwd: 123456
+foo: foo version 1

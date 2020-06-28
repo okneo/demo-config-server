@@ -7,5 +7,5 @@ ribbon:
   ReadTimeout: 12000
   ConnectTimeout: 12000
 server:
-  passwd: 123456789
+  passwd: 1234567890
 foo: foo version 1
